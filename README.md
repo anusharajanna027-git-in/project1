@@ -1,6 +1,6 @@
 # New Project 
 
-This project is new.
+This project was created from local system.
 
 # Name
-Created by anudev
+Created by anudev.
